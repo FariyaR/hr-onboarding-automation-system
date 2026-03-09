@@ -1,8 +1,8 @@
-# Airtable Skills Test: HR Onboarding Dashboard
+# Airtable: HR Onboarding Dashboard
 
-Welcome, and thank you for your interest in the Airtable Skills Test.
+Welcome.
 
-This repository contains the tasks for the Airtable HR Onboarding Dashboard assessment. The exercise is designed to evaluate your ability to use Airtable's features like formulas, automation, and interfaces to solve real-world HR challenges.
+This repository contains the tasks for the Airtable HR Onboarding Dashboard. The exercise is designed to evaluate your ability to use Airtable's features like formulas, automation, and interfaces to solve real-world HR challenges.
 
 ### Tasks
 This test consists of two tasks:
